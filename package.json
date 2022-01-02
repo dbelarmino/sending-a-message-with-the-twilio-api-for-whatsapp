@@ -1,0 +1,10 @@
+{
+  "name": "sending-a-message-with-the-twilio-api-for-whatsapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "twilio": "^3.72.0"
+  }
+}
